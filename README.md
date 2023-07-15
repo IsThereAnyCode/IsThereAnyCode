@@ -2,10 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BQso6EW8N8CpDCpTe8/giphy.gif" width="700"/>
 </div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+
 ## Stack
 - C Languages
 - Python
