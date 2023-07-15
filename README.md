@@ -1,4 +1,4 @@
-## Hey👋
+## Hey👋 I'm Jayden Kim
 <h3 align="left">I'm an undergraduate researcher and preparing for my master's degree.</h3>
 
 <p>
