@@ -24,6 +24,9 @@ I'm an undergraduate researcher and preparing for my master's degree.
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  alt="androidstudio" width="25" height="25" />
+        
+
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsThereAnyCode&show_icons=true&theme=tokyonight)
