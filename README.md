@@ -13,7 +13,7 @@
       </a> 
 </p>
 
-- 🔭 I’m currently working on AIONE
+- 🔭 I’m currently working on AIONE Lab
 - 🌱 I’m currently studying to become a MLE(machine learning enginner)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
