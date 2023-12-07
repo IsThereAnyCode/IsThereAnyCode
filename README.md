@@ -19,7 +19,6 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: <isthereanycode@gmail.com>
 - ⚡ Fun fact: I'm 23 :D
-- 
 <br><br>
 
 ## :page_with_curl: currently learning
