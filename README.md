@@ -13,8 +13,8 @@
       </a> 
 </p>
 
-- 🔭 I’m currently working on AIONE Lab
-- 🌱 I’m currently studying to become a MLE(machine learning enginner)
+- 🔭 I’m currently working on Korea Brain Research Institude(KBRI)
+- 🌱 I’m currently studying to become a NeuroScience Researcher
 - 👯 I’m looking for Internship
 - 💬 Ask me about anything!
 - 📫 How to reach me: <isthereanycode@gmail.com>
