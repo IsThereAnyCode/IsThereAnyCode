@@ -1,5 +1,5 @@
 ## Hey👋 I'm JaeHyun Kim
-<h3 align="left">I'm an undergraduate researcher and preparing for my master's degree.</h3>
+<h3 align="left">I'm a Biomedical Engineering Master's student at Boston University.🎓</h3>
 
 <p>
     <a href="https://github.com/IsThereAnyCode">
@@ -13,11 +13,10 @@
       </a> 
 </p>
 
-- 🔭 I’m currently working on Korea Brain Research Institude(KBRI)
-- 🌱 I’m currently studying to become a NeuroScience Researcher
-- 👯 I’m looking for Internship
+- 🔭 I’m currently studying at Boston University!
+- 🌱 I’m currently studying to become a NeuroScience Researcher!
 - 💬 Ask me about anything!
-- 📫 How to reach me: <isthereanycode@gmail.com>
+- 📫 How to reach me: <jaehkim@bu.edu>
 <br><br>
 
 ## 🚀 Some Tools I Use
